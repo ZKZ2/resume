@@ -1,2 +1,2 @@
-# html-resume
-My Resume in HTML
+# resume
+My Resume
